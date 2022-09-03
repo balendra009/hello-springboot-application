@@ -20,3 +20,11 @@ Note:
 1. stackhawk files are just for testing purpose. 
     stackhawk work same as veracode.
 2. Newrelic also we have configure.
+
+
+
+Note:
+
+to run the maven application without Docker
+
+mvn spring-boot:run
